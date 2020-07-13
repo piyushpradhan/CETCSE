@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "810952375043",
+    "firebase_url": "https://cetcse-f24e9.firebaseio.com",
+    "project_id": "cetcse-f24e9",
+    "storage_bucket": "cetcse-f24e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810952375043:android:72a6507b5f5c14def98736",
+        "android_client_info": {
+          "package_name": "com.example.cetcse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810952375043-51ontrr322qisqr5upjg0jc71m8oaa4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZKVeBK85bcUAThVrBITcoZiOML9eahYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810952375043-51ontrr322qisqr5upjg0jc71m8oaa4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
